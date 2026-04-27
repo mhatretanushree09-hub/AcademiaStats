@@ -5,3 +5,4 @@ numpy
 openpyxl
 statsmodels
 jinja2
+matplotlib
