@@ -92,8 +92,3 @@ The dashboard features a **premium dark theme** built with:
 - 💜 Purple accent palette (`#8b5cf6` → `#6366f1`)
 - ✨ Smooth hover animations and floating transitions
 - 🔤 Inter font family for clean, modern typography
-
---
-<p align="center">
-  Built with ❤️ using Streamlit & Plotly
-</p>
